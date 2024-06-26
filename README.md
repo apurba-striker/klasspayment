@@ -17,7 +17,7 @@ Welcome to the Klass Payment project! This project aims to replicate the basic f
 
 ## Getting Started
 
-To get started with the PayTM Clone project, follow these steps:
+To get started with the Klass Payment project, follow these steps:
 
 1. **Clone the Repository**: Clone the repository from GitHub:
 
